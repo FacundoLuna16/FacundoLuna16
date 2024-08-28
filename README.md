@@ -15,7 +15,6 @@ CSS         ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 ## 🛠️ Tecnologías y Herramientas
 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 - ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -25,3 +24,7 @@ CSS         ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒�
 - ![TestNG](https://img.shields.io/badge/-TestNG-FF8C00?style=flat-square&logo=testng&logoColor=white)
 - ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
+
+
+
