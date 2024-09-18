@@ -7,6 +7,11 @@
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoLuna16&layout=compact&langs_count=7&theme=dracula"/>
 <br><br><br><br><br><br><br><br>
+<!--
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FacundoLuna16&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+-->
+
+
 
 ## 🛠️ Tecnologías y Herramientas
 
